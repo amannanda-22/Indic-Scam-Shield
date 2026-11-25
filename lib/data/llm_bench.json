@@ -1,0 +1,1 @@
+{ "status": "not_run", "note": "Run `GEMINI_API_KEY=... npm run bench:llm` (or ANTHROPIC_API_KEY) to benchmark a zero-shot LLM on the same 64+40 hold-out messages. No numbers are shown until it has actually been run." }

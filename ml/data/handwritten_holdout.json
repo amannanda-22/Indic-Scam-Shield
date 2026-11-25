@@ -1,0 +1,386 @@
+[
+ {
+  "text": "Sir, this is from Cyber Crime branch. Your Aadhaar was used for illegal transactions. Stay on this call, do not tell family, we are verifying your accounts. Transfer funds to RBI safe account for verification.",
+  "label": "scam",
+  "type": "digital_arrest",
+  "lang": "en"
+ },
+ {
+  "text": "Bhai tera naam ek drug case mein aaya hai, Mumbai police station se call hai. Video pe aa aur camera band mat kar, warna abhi gaadi bhejte hain.",
+  "label": "scam",
+  "type": "digital_arrest",
+  "lang": "hinglish"
+ },
+ {
+  "text": "Dear SBI user your YONO account is locked. Re-activate here: sbi-yono-secure.top/login",
+  "label": "scam",
+  "type": "kyc_block",
+  "lang": "en"
+ },
+ {
+  "text": "HDFC credit card ke reward points aaj expire ho rahe hain, Rs 8,900 ka cash redeem karne ke liye ye link kholein http://hdfc-rewards.live",
+  "label": "scam",
+  "type": "other",
+  "lang": "hinglish"
+ },
+ {
+  "text": "Mee electricity bill update cheyyaledu, ee roju raatri power cut chestaru. Ee number ki WhatsApp cheyyandi 9876501234.",
+  "label": "scam",
+  "type": "utility_disconnect",
+  "lang": "telugu_roman"
+ },
+ {
+  "text": "Congrats! You've been shortlisted for work from home. Earn 5000/day liking Instagram reels. DM on Telegram @earnfast_hr",
+  "label": "scam",
+  "type": "job_task",
+  "lang": "en"
+ },
+ {
+  "text": "Mere dost ka accident ho gaya hai hospital mein, urgent Rs 20,000 chahiye. Ye number pe Google Pay kar do, kal wapas kar dunga.",
+  "label": "scam",
+  "type": "upi_refund",
+  "lang": "hinglish"
+ },
+ {
+  "text": "Invest Rs 10,000 in our crypto signals group, guaranteed 30% weekly returns. Limited slots. Join: t.me/profit_kings_vip",
+  "label": "scam",
+  "type": "other",
+  "lang": "en"
+ },
+ {
+  "text": "Aapke Paytm wallet ka KYC expire ho gaya hai. Wallet band hone se bachane ke liye abhi apna PAN aur Aadhaar photo is link par upload karein.",
+  "label": "scam",
+  "type": "kyc_block",
+  "lang": "hinglish"
+ },
+ {
+  "text": "Mee Aadhaar update cheyyali, lekapothe mee SIM block avtundi. Ee link lo details enter cheyyandi: aadhaar-update.icu",
+  "label": "scam",
+  "type": "kyc_block",
+  "lang": "telugu_roman"
+ },
+ {
+  "text": "Your Netflix subscription failed. Update payment method within 24 hours to avoid cancellation: netflix-billing-help.xyz",
+  "label": "scam",
+  "type": "other",
+  "lang": "en"
+ },
+ {
+  "text": "Aapne Flipkart Big Billion sale mein lucky draw jeeta hai! Rs 50,000 voucher. Delivery fee Rs 499 UPI karein is number par.",
+  "label": "scam",
+  "type": "lottery_prize",
+  "lang": "hinglish"
+ },
+ {
+  "text": "ALERT: unusual login to your account. Share the 6-digit code we just sent to secure your account.",
+  "label": "scam",
+  "type": "other",
+  "lang": "en"
+ },
+ {
+  "text": "Main SBI se bol raha hu, aapka card block hone wala hai. Card ke peeche ka CVV aur abhi aaya OTP bata do.",
+  "label": "scam",
+  "type": "kyc_block",
+  "lang": "hinglish"
+ },
+ {
+  "text": "మీ బ్యాంక్ ఖాతా బ్లాక్ అయ్యింది. వెంటనే ఈ లింక్‌లో మీ కార్డ్ వివరాలు మరియు OTP నమోదు చేయండి.",
+  "label": "scam",
+  "type": "kyc_block",
+  "lang": "telugu_script"
+ },
+ {
+  "text": "आपके नाम से एक कूरियर पकड़ा गया है, सीबीआई अधिकारी आपसे वीडियो कॉल पर बात करेंगे। इस बारे में किसी को ना बताएं।",
+  "label": "scam",
+  "type": "digital_arrest",
+  "lang": "hindi"
+ },
+ {
+  "text": "Your electricity bill is overdue. Pay Rs 1 now at the link to avoid disconnection tonight. bescom-pay.cc",
+  "label": "scam",
+  "type": "utility_disconnect",
+  "lang": "en"
+ },
+ {
+  "text": "Sir aapka Rs 4,999 ka refund aaya hai, but galti se Rs 49,990 chale gaye. Please wapas bhej dijiye, ye number pe.",
+  "label": "scam",
+  "type": "upi_refund",
+  "lang": "hinglish"
+ },
+ {
+  "text": "Final notice: income tax refund Rs 24,560 approved. Submit bank details at incometax-refund.online to receive.",
+  "label": "scam",
+  "type": "other",
+  "lang": "en"
+ },
+ {
+  "text": "Telegram par task complete karo, har task pe Rs 150 milega. Pehle 3 task free, phir Rs 5000 deposit karke premium group join karo.",
+  "label": "scam",
+  "type": "job_task",
+  "lang": "hinglish"
+ },
+ {
+  "text": "Dear customer, your Jio number will be disconnected. Call 9123456780 for KYC verification immediately.",
+  "label": "scam",
+  "type": "kyc_block",
+  "lang": "en"
+ },
+ {
+  "text": "Aapka loan app ka payment 2 din late hai. Aaj nahi diya to aapke contacts ko aapki photo ke saath message bhejenge.",
+  "label": "scam",
+  "type": "loan_app",
+  "lang": "hinglish"
+ },
+ {
+  "text": "I am calling from Microsoft support, your computer has a virus. Install AnyDesk and give me the code to fix it.",
+  "label": "scam",
+  "type": "other",
+  "lang": "en"
+ },
+ {
+  "text": "बधाई हो! आपका मोबाइल नंबर लकी ड्रॉ में चुना गया है। इनाम पाने के लिए ₹3,000 टैक्स पहले जमा करें।",
+  "label": "scam",
+  "type": "lottery_prize",
+  "lang": "hindi"
+ },
+ {
+  "text": "Mee parcel lo drugs dorikayi ani CBI officer matladutunnaru. Video call lo undandi, evariki cheppakandi.",
+  "label": "scam",
+  "type": "digital_arrest",
+  "lang": "telugu_roman"
+ },
+ {
+  "text": "Hi, we found your resume. Amazon work from home, pay Rs 3 lakh/month. Pay refundable registration Rs 2,000.",
+  "label": "scam",
+  "type": "job_task",
+  "lang": "en"
+ },
+ {
+  "text": "Aapke bank account se Rs 90,000 nikal gaye hain. Wapas lene ke liye turant ye app download karein jisse hum aapka phone control kar sakein.",
+  "label": "scam",
+  "type": "other",
+  "lang": "hinglish"
+ },
+ {
+  "text": "Your FASTag is blocked. Recharge immediately via fastag-recharge-now.top to continue using highways.",
+  "label": "scam",
+  "type": "other",
+  "lang": "en"
+ },
+ {
+  "text": "Aapka WhatsApp band hone wala hai. Rokne ke liye 6 digit verification code hamein bhejiye.",
+  "label": "scam",
+  "type": "other",
+  "lang": "hinglish"
+ },
+ {
+  "text": "आपका गैस सिलेंडर सब्सिडी रुक गई है। अपडेट करने के लिए इस नंबर पर अपना बैंक OTP बताएं।",
+  "label": "scam",
+  "type": "other",
+  "lang": "hindi"
+ },
+ {
+  "text": "Mee Amazon order cancel chesaru, refund kosam mee debit card number, expiry, CVV ee link lo pampandi.",
+  "label": "scam",
+  "type": "upi_refund",
+  "lang": "telugu_roman"
+ },
+ {
+  "text": "Win a free iPhone 16! Complete this 1 minute survey, pay only Rs 99 shipping: iphone-gift-india.top",
+  "label": "scam",
+  "type": "lottery_prize",
+  "lang": "en"
+ },
+ {
+  "text": "Your OTP for HDFC Bank NetBanking login is 482913. Do not share it with anyone. Bank never asks for OTP.",
+  "label": "legit",
+  "type": "bank_txn_alert",
+  "lang": "en"
+ },
+ {
+  "text": "Aapke SBI account se Rs 1,200 UPI se kat gaye. Agar aapne ye nahi kiya to 1930 par call karein ya branch jayein.",
+  "label": "legit",
+  "type": "bank_txn_alert",
+  "lang": "hinglish"
+ },
+ {
+  "text": "Hi, your Swiggy order is on the way. Delivery partner Ravi will reach in 10 minutes.",
+  "label": "legit",
+  "type": "delivery_update",
+  "lang": "en"
+ },
+ {
+  "text": "Kal ka meeting 11 baje shift ho gaya hai, conference room B mein. Agenda mail kar diya hai.",
+  "label": "legit",
+  "type": "personal_chat",
+  "lang": "hinglish"
+ },
+ {
+  "text": "Nenu office nundi bayaluderanu, 30 nimishallo intiki chestanu. Dinner ki em kavali?",
+  "label": "legit",
+  "type": "personal_chat",
+  "lang": "telugu_roman"
+ },
+ {
+  "text": "Your Airtel postpaid bill of Rs 599 for November is generated. View and pay in the Airtel Thanks app.",
+  "label": "legit",
+  "type": "bill_reminder",
+  "lang": "en"
+ },
+ {
+  "text": "आपकी ट्रेन 12727 आज 15 मिनट देरी से चल रही है। प्लेटफॉर्म नंबर 3।",
+  "label": "legit",
+  "type": "delivery_update",
+  "lang": "hindi"
+ },
+ {
+  "text": "Reminder: Your electricity bill for October is due on 5 Nov. Pay via the official TSSPDCL app. Ignore if paid.",
+  "label": "legit",
+  "type": "bill_reminder",
+  "lang": "en"
+ },
+ {
+  "text": "Bhai, kal match ke liye ground book kar diya hai, subah 6 baje. Sab log time pe aana.",
+  "label": "legit",
+  "type": "personal_chat",
+  "lang": "hinglish"
+ },
+ {
+  "text": "Rs 3,250 credited to your A/c XX4421 via NEFT from ACME PVT LTD salary. Avl bal Rs 58,712. -ICICI Bank",
+  "label": "legit",
+  "type": "bank_txn_alert",
+  "lang": "en"
+ },
+ {
+  "text": "Mee Zomato order ready ayyindi, delivery boy pickup ki vachadu. Track cheyyandi app lo.",
+  "label": "legit",
+  "type": "delivery_update",
+  "lang": "telugu_roman"
+ },
+ {
+  "text": "Your interview for Software Engineer at Infosys is scheduled for 28 Nov, 11 AM. Please carry your ID proof. Details sent to your registered email.",
+  "label": "legit",
+  "type": "appointment",
+  "lang": "en"
+ },
+ {
+  "text": "Aapka LIC premium Rs 4,500 due date 30 Nov hai. Official LIC app ya nazdeeki branch mein bharein.",
+  "label": "legit",
+  "type": "bill_reminder",
+  "lang": "hinglish"
+ },
+ {
+  "text": "Dear customer, your debit card ending 7788 was used for Rs 899 at Amazon. If this was you, no action needed.",
+  "label": "legit",
+  "type": "bank_txn_alert",
+  "lang": "en"
+ },
+ {
+  "text": "प्रिय ग्राहक, आपके गैस सिलेंडर की बुकिंग हो गई है। डिलीवरी 2 दिन में होगी। OTP डिलीवरी के समय देना है।",
+  "label": "legit",
+  "type": "genuine_otp",
+  "lang": "hindi"
+ },
+ {
+  "text": "Your Aadhaar download request has been processed. Download from the official myaadhaar.uidai.gov.in portal.",
+  "label": "legit",
+  "type": "appointment",
+  "lang": "en"
+ },
+ {
+  "text": "Mummy ko bol do ki main kal subah 7 baje ki train se aa raha hu, station pe lene mat aana.",
+  "label": "legit",
+  "type": "personal_chat",
+  "lang": "hinglish"
+ },
+ {
+  "text": "Your passport appointment is confirmed for 3 Dec at 10 AM, RPO Visakhapatnam. Carry original documents.",
+  "label": "legit",
+  "type": "appointment",
+  "lang": "en"
+ },
+ {
+  "text": "మీ పరీక్ష ఫలితాలు యూనివర్సిటీ అధికారిక వెబ్‌సైట్‌లో అందుబాటులో ఉన్నాయి.",
+  "label": "legit",
+  "type": "appointment",
+  "lang": "telugu_script"
+ },
+ {
+  "text": "Your Uber ride with Ramesh (AP 31 AB 1234) is arriving. Share OTP 4521 with the driver at pickup.",
+  "label": "legit",
+  "type": "genuine_otp",
+  "lang": "en"
+ },
+ {
+  "text": "Aapka Myntra order delivered ho gaya. Return ya exchange ke liye 7 din ke andar app kholein.",
+  "label": "legit",
+  "type": "delivery_update",
+  "lang": "hinglish"
+ },
+ {
+  "text": "Thank you for shopping at Reliance Smart. Your bill of Rs 1,340 is paid. Visit again.",
+  "label": "legit",
+  "type": "bank_txn_alert",
+  "lang": "en"
+ },
+ {
+  "text": "Zerodha: aapka monthly statement ready hai. Console par login karke dekhein. Hum kabhi OTP ya password phone par nahi maangte.",
+  "label": "legit",
+  "type": "bill_reminder",
+  "lang": "hinglish"
+ },
+ {
+  "text": "Reminder from Apollo Clinic: your blood test report is ready. Collect from the reception or download from our official app.",
+  "label": "legit",
+  "type": "appointment",
+  "lang": "en"
+ },
+ {
+  "text": "आपका बिजली बिल जमा हो गया है। धन्यवाद। रसीद नंबर 884210।",
+  "label": "legit",
+  "type": "bill_reminder",
+  "lang": "hindi"
+ },
+ {
+  "text": "Hi Aman, thanks for applying. We will review your profile and get back within 7 working days. -HR Team",
+  "label": "legit",
+  "type": "appointment",
+  "lang": "en"
+ },
+ {
+  "text": "Ee roju vaanalu padatayi, umbrella teesukelli. Jagratta.",
+  "label": "legit",
+  "type": "personal_chat",
+  "lang": "telugu_roman"
+ },
+ {
+  "text": "Your SIP of Rs 2,000 in Axis Bluechip Fund was successful. Units allotted at NAV 56.12.",
+  "label": "legit",
+  "type": "bank_txn_alert",
+  "lang": "en"
+ },
+ {
+  "text": "Aapka CIBIL score report ready hai. Official CIBIL website par login karke dekhein.",
+  "label": "legit",
+  "type": "bill_reminder",
+  "lang": "hinglish"
+ },
+ {
+  "text": "Alert: Never share your OTP, PIN or CVV with anyone. Bank staff will never ask for them. -Your Bank",
+  "label": "legit",
+  "type": "genuine_otp",
+  "lang": "en"
+ },
+ {
+  "text": "Aapka Paytm FASTag balance low hai. Official Paytm app se recharge kar lein.",
+  "label": "legit",
+  "type": "bill_reminder",
+  "lang": "hinglish"
+ },
+ {
+  "text": "Your exam hall ticket for the SSC CGL is now available on ssc.gov.in. Download and carry a printout.",
+  "label": "legit",
+  "type": "appointment",
+  "lang": "en"
+ }
+]

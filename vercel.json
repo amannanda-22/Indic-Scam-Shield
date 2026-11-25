@@ -1,0 +1,9 @@
+{
+  "functions": {
+    "api/py/predict.py": {
+      "includeFiles": "{ml/textnorm.py,lib/data/model.json}",
+      "excludeFiles": "{node_modules/**,.next/**,.venv/**,docs/**,public/**,ml/serve/model.joblib,ml/data/**,**/__pycache__/**}",
+      "maxDuration": 10
+    }
+  }
+}

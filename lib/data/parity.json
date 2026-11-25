@@ -1,0 +1,162 @@
+[
+ {
+  "text": "Sir, this is from Cyber Crime branch. Your Aadhaar was used for illegal transactions. Stay on this call, do not tell family, we are verifying your accounts. Transfer funds to RBI safe account for verification.",
+  "norm": "sir, this is from cyber crime branch. your aadhaar was used for illegal transactions. stay on this call, do not tell family, we are verifying your accounts. transfer funds to rbi safe account for verification.",
+  "p_scam": 0.480439
+ },
+ {
+  "text": "Bhai tera naam ek drug case mein aaya hai, Mumbai police station se call hai. Video pe aa aur camera band mat kar, warna abhi gaadi bhejte hain.",
+  "norm": "bhai tera naam ek drug case mein aaya hai, mumbai police station se call hai. video pe aa aur camera band mat kar, warna abhi gaadi bhejte hain.",
+  "p_scam": 0.929871
+ },
+ {
+  "text": "Dear SBI user your YONO account is locked. Re-activate here: sbi-yono-secure.top/login",
+  "norm": "dear sbi user your yono account is locked. re-activate here: urltok",
+  "p_scam": 0.927922
+ },
+ {
+  "text": "HDFC credit card ke reward points aaj expire ho rahe hain, Rs 8,900 ka cash redeem karne ke liye ye link kholein http://hdfc-rewards.live",
+  "norm": "hdfc credit card ke reward points aaj expire ho rahe hain, rs 0,0 ka cash redeem karne ke liye ye link kholein urltok",
+  "p_scam": 0.878173
+ },
+ {
+  "text": "Mee electricity bill update cheyyaledu, ee roju raatri power cut chestaru. Ee number ki WhatsApp cheyyandi 9876501234.",
+  "norm": "mee electricity bill update cheyyaledu, ee roju raatri power cut chestaru. ee number ki whatsapp cheyyandi phonetok .",
+  "p_scam": 0.959414
+ },
+ {
+  "text": "Congrats! You've been shortlisted for work from home. Earn 5000/day liking Instagram reels. DM on Telegram @earnfast_hr",
+  "norm": "congrats! you've been shortlisted for work from home. earn 0/day liking instagram reels. dm on telegram @earnfast_hr",
+  "p_scam": 0.620544
+ },
+ {
+  "text": "Mere dost ka accident ho gaya hai hospital mein, urgent Rs 20,000 chahiye. Ye number pe Google Pay kar do, kal wapas kar dunga.",
+  "norm": "mere dost ka accident ho gaya hai hospital mein, urgent rs 0,0 chahiye. ye number pe google pay kar do, kal wapas kar dunga.",
+  "p_scam": 0.914566
+ },
+ {
+  "text": "Invest Rs 10,000 in our crypto signals group, guaranteed 30% weekly returns. Limited slots. Join: t.me/profit_kings_vip",
+  "norm": "invest rs 0,0 in our crypto signals group, guaranteed 0% weekly returns. limited slots. join: urltok",
+  "p_scam": 0.980048
+ },
+ {
+  "text": "Aapke Paytm wallet ka KYC expire ho gaya hai. Wallet band hone se bachane ke liye abhi apna PAN aur Aadhaar photo is link par upload karein.",
+  "norm": "aapke paytm wallet ka kyc expire ho gaya hai. wallet band hone se bachane ke liye abhi apna pan aur aadhaar photo is link par upload karein.",
+  "p_scam": 0.872391
+ },
+ {
+  "text": "Mee Aadhaar update cheyyali, lekapothe mee SIM block avtundi. Ee link lo details enter cheyyandi: aadhaar-update.icu",
+  "norm": "mee aadhaar update cheyyali, lekapothe mee sim block avtundi. ee link lo details enter cheyyandi: urltok",
+  "p_scam": 0.957915
+ },
+ {
+  "text": "Your Netflix subscription failed. Update payment method within 24 hours to avoid cancellation: netflix-billing-help.xyz",
+  "norm": "your netflix subscription failed. update payment method within 0 hours to avoid cancellation: urltok",
+  "p_scam": 0.910856
+ },
+ {
+  "text": "Aapne Flipkart Big Billion sale mein lucky draw jeeta hai! Rs 50,000 voucher. Delivery fee Rs 499 UPI karein is number par.",
+  "norm": "aapne flipkart big billion sale mein lucky draw jeeta hai! rs 0,0 voucher. delivery fee rs 0 upi karein is number par.",
+  "p_scam": 0.843054
+ },
+ {
+  "text": "Your OTP for HDFC Bank NetBanking login is 482913. Do not share it with anyone. Bank never asks for OTP.",
+  "norm": "your otp for hdfc bank netbanking login is 0. do not share it with anyone. bank never asks for otp.",
+  "p_scam": 0.023331
+ },
+ {
+  "text": "Aapke SBI account se Rs 1,200 UPI se kat gaye. Agar aapne ye nahi kiya to 1930 par call karein ya branch jayein.",
+  "norm": "aapke sbi account se rs 0,0 upi se kat gaye. agar aapne ye nahi kiya to 0 par call karein ya branch jayein.",
+  "p_scam": 0.556175
+ },
+ {
+  "text": "Hi, your Swiggy order is on the way. Delivery partner Ravi will reach in 10 minutes.",
+  "norm": "hi, your swiggy order is on the way. delivery partner ravi will reach in 0 minutes.",
+  "p_scam": 0.029985
+ },
+ {
+  "text": "Kal ka meeting 11 baje shift ho gaya hai, conference room B mein. Agenda mail kar diya hai.",
+  "norm": "kal ka meeting 0 baje shift ho gaya hai, conference room b mein. agenda mail kar diya hai.",
+  "p_scam": 0.091041
+ },
+ {
+  "text": "Nenu office nundi bayaluderanu, 30 nimishallo intiki chestanu. Dinner ki em kavali?",
+  "norm": "nenu office nundi bayaluderanu, 0 nimishallo intiki chestanu. dinner ki em kavali?",
+  "p_scam": 0.028479
+ },
+ {
+  "text": "Your Airtel postpaid bill of Rs 599 for November is generated. View and pay in the Airtel Thanks app.",
+  "norm": "your airtel postpaid bill of rs 0 for november is generated. view and pay in the airtel thanks app.",
+  "p_scam": 0.240834
+ },
+ {
+  "text": "आपकी ट्रेन 12727 आज 15 मिनट देरी से चल रही है। प्लेटफॉर्म नंबर 3।",
+  "norm": "आपकी ट्रेन 0 आज 0 मिनट देरी से चल रही है। प्लेटफॉर्म नंबर 0।",
+  "p_scam": 0.028014
+ },
+ {
+  "text": "Reminder: Your electricity bill for October is due on 5 Nov. Pay via the official TSSPDCL app. Ignore if paid.",
+  "norm": "reminder: your electricity bill for october is due on 0 nov. pay via the official tsspdcl app. ignore if paid.",
+  "p_scam": 0.040968
+ },
+ {
+  "text": "Bhai, kal match ke liye ground book kar diya hai, subah 6 baje. Sab log time pe aana.",
+  "norm": "bhai, kal match ke liye ground book kar diya hai, subah 0 baje. sab log time pe aana.",
+  "p_scam": 0.288934
+ },
+ {
+  "text": "Rs 3,250 credited to your A/c XX4421 via NEFT from ACME PVT LTD salary. Avl bal Rs 58,712. -ICICI Bank",
+  "norm": "rs 0,0 credited to your a/c xx0 via neft from acme pvt ltd salary. avl bal rs 0,0. -icici bank",
+  "p_scam": 0.077309
+ },
+ {
+  "text": "Mee Zomato order ready ayyindi, delivery boy pickup ki vachadu. Track cheyyandi app lo.",
+  "norm": "mee zomato order ready ayyindi, delivery boy pickup ki vachadu. track cheyyandi app lo.",
+  "p_scam": 0.065883
+ },
+ {
+  "text": "Your interview for Software Engineer at Infosys is scheduled for 28 Nov, 11 AM. Please carry your ID proof. Details sent to your registered email.",
+  "norm": "your interview for software engineer at infosys is scheduled for 0 nov, 0 am. please carry your id proof. details sent to your registered email.",
+  "p_scam": 0.092251
+ },
+ {
+  "text": "Abhinandanalu! Meeru KBC lucky draw lo Rs 7,500 gelichaaru. Claim cheyyadaniki Rs 2,500 processing fee pampandi, bank details +91 6470512269 ki pampandi.",
+  "norm": "abhinandanalu! meeru kbc lucky draw lo rs 0,0 gelichaaru. claim cheyyadaniki rs 0,0 processing fee pampandi, bank details phonetok ki pampandi.",
+  "p_scam": 0.995423
+ },
+ {
+  "text": "FedEx: videsham nundi vachina package lo restricted vastuvulu unnayi. Police case nundi tappukodaniki +91 7406329138 ki sampradinchandi.",
+  "norm": "fedex: videsham nundi vachina package lo restricted vastuvulu unnayi. police case nundi tappukodaniki phonetok ki sampradinchandi.",
+  "p_scam": 0.980265
+ },
+ {
+  "text": "Badhai ho! Rs 1,25,000 cashback aaya hai. cbi-verify.online kholkar claim karne ke liye UPI PIN daalein.",
+  "norm": "badhai ho! rs 0,0,0 cashback aaya hai. urltok kholkar claim karne ke liye upi pin daalein.",
+  "p_scam": 0.99187
+ },
+ {
+  "text": "This is Customs Department. A parcel in your name with illegal items was seized. You are under digital arrest. Do not disconnect this video call and do not tell anyone. Pay Rs 35,000 to clear your case.",
+  "norm": "this is customs department. a parcel in your name with illegal items was seized. you are under digital arrest. do not disconnect this video call and do not tell anyone. pay rs 0,0 to clear your case.",
+  "p_scam": 0.988603
+ },
+ {
+  "text": "Yaad dilana: aapka BESCOM bill Rs 4,999 18/11/2026 ko due hai. Official app ya counter par bharein. Pehle hi bhar diya ho to ignore karein.",
+  "norm": "yaad dilana: aapka bescom bill rs 0,0 0/0/0 ko due hai. official app ya counter par bharein. pehle hi bhar diya ho to ignore karein.",
+  "p_scam": 0.0146
+ },
+ {
+  "text": "Hiring for part-time online job! Earn Rs 35,000 daily by liking YouTube videos. No experience needed. Join our Telegram group tsspdcl-bill.icu and message HR on WhatsApp +91 7397948880.",
+  "norm": "hiring for part-time online job! earn rs 0,0 daily by liking youtube videos. no experience needed. join our telegram group urltok and message hr on whatsapp phonetok .",
+  "p_scam": 0.991047
+ },
+ {
+  "text": "Aapka exam hall ticket official university website par available hai. Exam 18/11/2026 se shuru hoga.",
+  "norm": "aapka exam hall ticket official university website par available hai. exam 0/0/0 se shuru hoga.",
+  "p_scam": 0.005706
+ },
+ {
+  "text": "Aapka mobile recharge plan 12-Nov ko khatam ho raha hai. Service jaari rakhne ke liye official Jio ya Airtel app se recharge karein.",
+  "norm": "aapka mobile recharge plan 0-nov ko khatam ho raha hai. service jaari rakhne ke liye official jio ya airtel app se recharge karein.",
+  "p_scam": 0.011472
+ }
+]

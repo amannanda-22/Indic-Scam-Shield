@@ -1,0 +1,1388 @@
+[
+ {
+  "id": "digital_arrest|en|0",
+  "label": "scam",
+  "type": "digital_arrest",
+  "lang": "en",
+  "split": "train"
+ },
+ {
+  "id": "digital_arrest|en|1",
+  "label": "scam",
+  "type": "digital_arrest",
+  "lang": "en",
+  "split": "train"
+ },
+ {
+  "id": "digital_arrest|en|2",
+  "label": "scam",
+  "type": "digital_arrest",
+  "lang": "en",
+  "split": "train"
+ },
+ {
+  "id": "digital_arrest|hinglish|0",
+  "label": "scam",
+  "type": "digital_arrest",
+  "lang": "hinglish",
+  "split": "test"
+ },
+ {
+  "id": "digital_arrest|hinglish|1",
+  "label": "scam",
+  "type": "digital_arrest",
+  "lang": "hinglish",
+  "split": "train"
+ },
+ {
+  "id": "digital_arrest|hinglish|2",
+  "label": "scam",
+  "type": "digital_arrest",
+  "lang": "hinglish",
+  "split": "test"
+ },
+ {
+  "id": "digital_arrest|hindi|0",
+  "label": "scam",
+  "type": "digital_arrest",
+  "lang": "hindi",
+  "split": "test"
+ },
+ {
+  "id": "digital_arrest|hindi|1",
+  "label": "scam",
+  "type": "digital_arrest",
+  "lang": "hindi",
+  "split": "train"
+ },
+ {
+  "id": "digital_arrest|hindi|2",
+  "label": "scam",
+  "type": "digital_arrest",
+  "lang": "hindi",
+  "split": "test"
+ },
+ {
+  "id": "digital_arrest|telugu_roman|0",
+  "label": "scam",
+  "type": "digital_arrest",
+  "lang": "telugu_roman",
+  "split": "train"
+ },
+ {
+  "id": "digital_arrest|telugu_roman|1",
+  "label": "scam",
+  "type": "digital_arrest",
+  "lang": "telugu_roman",
+  "split": "test"
+ },
+ {
+  "id": "digital_arrest|telugu_roman|2",
+  "label": "scam",
+  "type": "digital_arrest",
+  "lang": "telugu_roman",
+  "split": "train"
+ },
+ {
+  "id": "digital_arrest|telugu_script|0",
+  "label": "scam",
+  "type": "digital_arrest",
+  "lang": "telugu_script",
+  "split": "test"
+ },
+ {
+  "id": "kyc_block|en|0",
+  "label": "scam",
+  "type": "kyc_block",
+  "lang": "en",
+  "split": "train"
+ },
+ {
+  "id": "kyc_block|en|1",
+  "label": "scam",
+  "type": "kyc_block",
+  "lang": "en",
+  "split": "train"
+ },
+ {
+  "id": "kyc_block|en|2",
+  "label": "scam",
+  "type": "kyc_block",
+  "lang": "en",
+  "split": "train"
+ },
+ {
+  "id": "kyc_block|hinglish|0",
+  "label": "scam",
+  "type": "kyc_block",
+  "lang": "hinglish",
+  "split": "train"
+ },
+ {
+  "id": "kyc_block|hinglish|1",
+  "label": "scam",
+  "type": "kyc_block",
+  "lang": "hinglish",
+  "split": "train"
+ },
+ {
+  "id": "kyc_block|hinglish|2",
+  "label": "scam",
+  "type": "kyc_block",
+  "lang": "hinglish",
+  "split": "train"
+ },
+ {
+  "id": "kyc_block|hindi|0",
+  "label": "scam",
+  "type": "kyc_block",
+  "lang": "hindi",
+  "split": "train"
+ },
+ {
+  "id": "kyc_block|hindi|1",
+  "label": "scam",
+  "type": "kyc_block",
+  "lang": "hindi",
+  "split": "train"
+ },
+ {
+  "id": "kyc_block|hindi|2",
+  "label": "scam",
+  "type": "kyc_block",
+  "lang": "hindi",
+  "split": "train"
+ },
+ {
+  "id": "kyc_block|telugu_roman|0",
+  "label": "scam",
+  "type": "kyc_block",
+  "lang": "telugu_roman",
+  "split": "train"
+ },
+ {
+  "id": "kyc_block|telugu_roman|1",
+  "label": "scam",
+  "type": "kyc_block",
+  "lang": "telugu_roman",
+  "split": "train"
+ },
+ {
+  "id": "kyc_block|telugu_roman|2",
+  "label": "scam",
+  "type": "kyc_block",
+  "lang": "telugu_roman",
+  "split": "train"
+ },
+ {
+  "id": "kyc_block|telugu_script|0",
+  "label": "scam",
+  "type": "kyc_block",
+  "lang": "telugu_script",
+  "split": "test"
+ },
+ {
+  "id": "upi_refund|en|0",
+  "label": "scam",
+  "type": "upi_refund",
+  "lang": "en",
+  "split": "train"
+ },
+ {
+  "id": "upi_refund|en|1",
+  "label": "scam",
+  "type": "upi_refund",
+  "lang": "en",
+  "split": "train"
+ },
+ {
+  "id": "upi_refund|en|2",
+  "label": "scam",
+  "type": "upi_refund",
+  "lang": "en",
+  "split": "train"
+ },
+ {
+  "id": "upi_refund|hinglish|0",
+  "label": "scam",
+  "type": "upi_refund",
+  "lang": "hinglish",
+  "split": "train"
+ },
+ {
+  "id": "upi_refund|hinglish|1",
+  "label": "scam",
+  "type": "upi_refund",
+  "lang": "hinglish",
+  "split": "train"
+ },
+ {
+  "id": "upi_refund|hinglish|2",
+  "label": "scam",
+  "type": "upi_refund",
+  "lang": "hinglish",
+  "split": "train"
+ },
+ {
+  "id": "upi_refund|hindi|0",
+  "label": "scam",
+  "type": "upi_refund",
+  "lang": "hindi",
+  "split": "train"
+ },
+ {
+  "id": "upi_refund|hindi|1",
+  "label": "scam",
+  "type": "upi_refund",
+  "lang": "hindi",
+  "split": "test"
+ },
+ {
+  "id": "upi_refund|hindi|2",
+  "label": "scam",
+  "type": "upi_refund",
+  "lang": "hindi",
+  "split": "train"
+ },
+ {
+  "id": "upi_refund|telugu_roman|0",
+  "label": "scam",
+  "type": "upi_refund",
+  "lang": "telugu_roman",
+  "split": "test"
+ },
+ {
+  "id": "upi_refund|telugu_roman|1",
+  "label": "scam",
+  "type": "upi_refund",
+  "lang": "telugu_roman",
+  "split": "train"
+ },
+ {
+  "id": "upi_refund|telugu_roman|2",
+  "label": "scam",
+  "type": "upi_refund",
+  "lang": "telugu_roman",
+  "split": "test"
+ },
+ {
+  "id": "upi_refund|telugu_script|0",
+  "label": "scam",
+  "type": "upi_refund",
+  "lang": "telugu_script",
+  "split": "train"
+ },
+ {
+  "id": "lottery_prize|en|0",
+  "label": "scam",
+  "type": "lottery_prize",
+  "lang": "en",
+  "split": "train"
+ },
+ {
+  "id": "lottery_prize|en|1",
+  "label": "scam",
+  "type": "lottery_prize",
+  "lang": "en",
+  "split": "train"
+ },
+ {
+  "id": "lottery_prize|en|2",
+  "label": "scam",
+  "type": "lottery_prize",
+  "lang": "en",
+  "split": "train"
+ },
+ {
+  "id": "lottery_prize|hinglish|0",
+  "label": "scam",
+  "type": "lottery_prize",
+  "lang": "hinglish",
+  "split": "train"
+ },
+ {
+  "id": "lottery_prize|hinglish|1",
+  "label": "scam",
+  "type": "lottery_prize",
+  "lang": "hinglish",
+  "split": "test"
+ },
+ {
+  "id": "lottery_prize|hinglish|2",
+  "label": "scam",
+  "type": "lottery_prize",
+  "lang": "hinglish",
+  "split": "train"
+ },
+ {
+  "id": "lottery_prize|hindi|0",
+  "label": "scam",
+  "type": "lottery_prize",
+  "lang": "hindi",
+  "split": "train"
+ },
+ {
+  "id": "lottery_prize|hindi|1",
+  "label": "scam",
+  "type": "lottery_prize",
+  "lang": "hindi",
+  "split": "train"
+ },
+ {
+  "id": "lottery_prize|hindi|2",
+  "label": "scam",
+  "type": "lottery_prize",
+  "lang": "hindi",
+  "split": "train"
+ },
+ {
+  "id": "lottery_prize|telugu_roman|0",
+  "label": "scam",
+  "type": "lottery_prize",
+  "lang": "telugu_roman",
+  "split": "train"
+ },
+ {
+  "id": "lottery_prize|telugu_roman|1",
+  "label": "scam",
+  "type": "lottery_prize",
+  "lang": "telugu_roman",
+  "split": "test"
+ },
+ {
+  "id": "lottery_prize|telugu_roman|2",
+  "label": "scam",
+  "type": "lottery_prize",
+  "lang": "telugu_roman",
+  "split": "train"
+ },
+ {
+  "id": "lottery_prize|telugu_script|0",
+  "label": "scam",
+  "type": "lottery_prize",
+  "lang": "telugu_script",
+  "split": "train"
+ },
+ {
+  "id": "job_task|en|0",
+  "label": "scam",
+  "type": "job_task",
+  "lang": "en",
+  "split": "train"
+ },
+ {
+  "id": "job_task|en|1",
+  "label": "scam",
+  "type": "job_task",
+  "lang": "en",
+  "split": "train"
+ },
+ {
+  "id": "job_task|en|2",
+  "label": "scam",
+  "type": "job_task",
+  "lang": "en",
+  "split": "train"
+ },
+ {
+  "id": "job_task|hinglish|0",
+  "label": "scam",
+  "type": "job_task",
+  "lang": "hinglish",
+  "split": "test"
+ },
+ {
+  "id": "job_task|hinglish|1",
+  "label": "scam",
+  "type": "job_task",
+  "lang": "hinglish",
+  "split": "train"
+ },
+ {
+  "id": "job_task|hinglish|2",
+  "label": "scam",
+  "type": "job_task",
+  "lang": "hinglish",
+  "split": "test"
+ },
+ {
+  "id": "job_task|hindi|0",
+  "label": "scam",
+  "type": "job_task",
+  "lang": "hindi",
+  "split": "train"
+ },
+ {
+  "id": "job_task|hindi|1",
+  "label": "scam",
+  "type": "job_task",
+  "lang": "hindi",
+  "split": "train"
+ },
+ {
+  "id": "job_task|hindi|2",
+  "label": "scam",
+  "type": "job_task",
+  "lang": "hindi",
+  "split": "train"
+ },
+ {
+  "id": "job_task|telugu_roman|0",
+  "label": "scam",
+  "type": "job_task",
+  "lang": "telugu_roman",
+  "split": "test"
+ },
+ {
+  "id": "job_task|telugu_roman|1",
+  "label": "scam",
+  "type": "job_task",
+  "lang": "telugu_roman",
+  "split": "train"
+ },
+ {
+  "id": "job_task|telugu_roman|2",
+  "label": "scam",
+  "type": "job_task",
+  "lang": "telugu_roman",
+  "split": "test"
+ },
+ {
+  "id": "job_task|telugu_script|0",
+  "label": "scam",
+  "type": "job_task",
+  "lang": "telugu_script",
+  "split": "train"
+ },
+ {
+  "id": "loan_app|en|0",
+  "label": "scam",
+  "type": "loan_app",
+  "lang": "en",
+  "split": "train"
+ },
+ {
+  "id": "loan_app|en|1",
+  "label": "scam",
+  "type": "loan_app",
+  "lang": "en",
+  "split": "test"
+ },
+ {
+  "id": "loan_app|en|2",
+  "label": "scam",
+  "type": "loan_app",
+  "lang": "en",
+  "split": "train"
+ },
+ {
+  "id": "loan_app|hinglish|0",
+  "label": "scam",
+  "type": "loan_app",
+  "lang": "hinglish",
+  "split": "train"
+ },
+ {
+  "id": "loan_app|hinglish|1",
+  "label": "scam",
+  "type": "loan_app",
+  "lang": "hinglish",
+  "split": "train"
+ },
+ {
+  "id": "loan_app|hinglish|2",
+  "label": "scam",
+  "type": "loan_app",
+  "lang": "hinglish",
+  "split": "train"
+ },
+ {
+  "id": "loan_app|hindi|0",
+  "label": "scam",
+  "type": "loan_app",
+  "lang": "hindi",
+  "split": "train"
+ },
+ {
+  "id": "loan_app|hindi|1",
+  "label": "scam",
+  "type": "loan_app",
+  "lang": "hindi",
+  "split": "train"
+ },
+ {
+  "id": "loan_app|hindi|2",
+  "label": "scam",
+  "type": "loan_app",
+  "lang": "hindi",
+  "split": "train"
+ },
+ {
+  "id": "loan_app|telugu_roman|0",
+  "label": "scam",
+  "type": "loan_app",
+  "lang": "telugu_roman",
+  "split": "train"
+ },
+ {
+  "id": "loan_app|telugu_roman|1",
+  "label": "scam",
+  "type": "loan_app",
+  "lang": "telugu_roman",
+  "split": "test"
+ },
+ {
+  "id": "loan_app|telugu_roman|2",
+  "label": "scam",
+  "type": "loan_app",
+  "lang": "telugu_roman",
+  "split": "train"
+ },
+ {
+  "id": "loan_app|telugu_script|0",
+  "label": "scam",
+  "type": "loan_app",
+  "lang": "telugu_script",
+  "split": "train"
+ },
+ {
+  "id": "utility_disconnect|en|0",
+  "label": "scam",
+  "type": "utility_disconnect",
+  "lang": "en",
+  "split": "train"
+ },
+ {
+  "id": "utility_disconnect|en|1",
+  "label": "scam",
+  "type": "utility_disconnect",
+  "lang": "en",
+  "split": "train"
+ },
+ {
+  "id": "utility_disconnect|en|2",
+  "label": "scam",
+  "type": "utility_disconnect",
+  "lang": "en",
+  "split": "train"
+ },
+ {
+  "id": "utility_disconnect|hinglish|0",
+  "label": "scam",
+  "type": "utility_disconnect",
+  "lang": "hinglish",
+  "split": "train"
+ },
+ {
+  "id": "utility_disconnect|hinglish|1",
+  "label": "scam",
+  "type": "utility_disconnect",
+  "lang": "hinglish",
+  "split": "train"
+ },
+ {
+  "id": "utility_disconnect|hinglish|2",
+  "label": "scam",
+  "type": "utility_disconnect",
+  "lang": "hinglish",
+  "split": "train"
+ },
+ {
+  "id": "utility_disconnect|hindi|0",
+  "label": "scam",
+  "type": "utility_disconnect",
+  "lang": "hindi",
+  "split": "train"
+ },
+ {
+  "id": "utility_disconnect|hindi|1",
+  "label": "scam",
+  "type": "utility_disconnect",
+  "lang": "hindi",
+  "split": "train"
+ },
+ {
+  "id": "utility_disconnect|hindi|2",
+  "label": "scam",
+  "type": "utility_disconnect",
+  "lang": "hindi",
+  "split": "train"
+ },
+ {
+  "id": "utility_disconnect|telugu_roman|0",
+  "label": "scam",
+  "type": "utility_disconnect",
+  "lang": "telugu_roman",
+  "split": "train"
+ },
+ {
+  "id": "utility_disconnect|telugu_roman|1",
+  "label": "scam",
+  "type": "utility_disconnect",
+  "lang": "telugu_roman",
+  "split": "test"
+ },
+ {
+  "id": "utility_disconnect|telugu_roman|2",
+  "label": "scam",
+  "type": "utility_disconnect",
+  "lang": "telugu_roman",
+  "split": "train"
+ },
+ {
+  "id": "utility_disconnect|telugu_script|0",
+  "label": "scam",
+  "type": "utility_disconnect",
+  "lang": "telugu_script",
+  "split": "train"
+ },
+ {
+  "id": "parcel_customs|en|0",
+  "label": "scam",
+  "type": "parcel_customs",
+  "lang": "en",
+  "split": "test"
+ },
+ {
+  "id": "parcel_customs|en|1",
+  "label": "scam",
+  "type": "parcel_customs",
+  "lang": "en",
+  "split": "train"
+ },
+ {
+  "id": "parcel_customs|en|2",
+  "label": "scam",
+  "type": "parcel_customs",
+  "lang": "en",
+  "split": "test"
+ },
+ {
+  "id": "parcel_customs|hinglish|0",
+  "label": "scam",
+  "type": "parcel_customs",
+  "lang": "hinglish",
+  "split": "train"
+ },
+ {
+  "id": "parcel_customs|hinglish|1",
+  "label": "scam",
+  "type": "parcel_customs",
+  "lang": "hinglish",
+  "split": "train"
+ },
+ {
+  "id": "parcel_customs|hinglish|2",
+  "label": "scam",
+  "type": "parcel_customs",
+  "lang": "hinglish",
+  "split": "train"
+ },
+ {
+  "id": "parcel_customs|hindi|0",
+  "label": "scam",
+  "type": "parcel_customs",
+  "lang": "hindi",
+  "split": "train"
+ },
+ {
+  "id": "parcel_customs|hindi|1",
+  "label": "scam",
+  "type": "parcel_customs",
+  "lang": "hindi",
+  "split": "test"
+ },
+ {
+  "id": "parcel_customs|hindi|2",
+  "label": "scam",
+  "type": "parcel_customs",
+  "lang": "hindi",
+  "split": "train"
+ },
+ {
+  "id": "parcel_customs|telugu_roman|0",
+  "label": "scam",
+  "type": "parcel_customs",
+  "lang": "telugu_roman",
+  "split": "train"
+ },
+ {
+  "id": "parcel_customs|telugu_roman|1",
+  "label": "scam",
+  "type": "parcel_customs",
+  "lang": "telugu_roman",
+  "split": "test"
+ },
+ {
+  "id": "parcel_customs|telugu_roman|2",
+  "label": "scam",
+  "type": "parcel_customs",
+  "lang": "telugu_roman",
+  "split": "train"
+ },
+ {
+  "id": "parcel_customs|telugu_script|0",
+  "label": "scam",
+  "type": "parcel_customs",
+  "lang": "telugu_script",
+  "split": "train"
+ },
+ {
+  "id": "bank_txn_alert|en|0",
+  "label": "legit",
+  "type": "bank_txn_alert",
+  "lang": "en",
+  "split": "train"
+ },
+ {
+  "id": "bank_txn_alert|en|1",
+  "label": "legit",
+  "type": "bank_txn_alert",
+  "lang": "en",
+  "split": "test"
+ },
+ {
+  "id": "bank_txn_alert|hinglish|0",
+  "label": "legit",
+  "type": "bank_txn_alert",
+  "lang": "hinglish",
+  "split": "train"
+ },
+ {
+  "id": "bank_txn_alert|hinglish|1",
+  "label": "legit",
+  "type": "bank_txn_alert",
+  "lang": "hinglish",
+  "split": "test"
+ },
+ {
+  "id": "bank_txn_alert|hindi|0",
+  "label": "legit",
+  "type": "bank_txn_alert",
+  "lang": "hindi",
+  "split": "test"
+ },
+ {
+  "id": "bank_txn_alert|hindi|1",
+  "label": "legit",
+  "type": "bank_txn_alert",
+  "lang": "hindi",
+  "split": "train"
+ },
+ {
+  "id": "bank_txn_alert|telugu_roman|0",
+  "label": "legit",
+  "type": "bank_txn_alert",
+  "lang": "telugu_roman",
+  "split": "train"
+ },
+ {
+  "id": "bank_txn_alert|telugu_roman|1",
+  "label": "legit",
+  "type": "bank_txn_alert",
+  "lang": "telugu_roman",
+  "split": "train"
+ },
+ {
+  "id": "bank_txn_alert|telugu_script|0",
+  "label": "legit",
+  "type": "bank_txn_alert",
+  "lang": "telugu_script",
+  "split": "train"
+ },
+ {
+  "id": "genuine_otp|en|0",
+  "label": "legit",
+  "type": "genuine_otp",
+  "lang": "en",
+  "split": "test"
+ },
+ {
+  "id": "genuine_otp|en|1",
+  "label": "legit",
+  "type": "genuine_otp",
+  "lang": "en",
+  "split": "train"
+ },
+ {
+  "id": "genuine_otp|hinglish|0",
+  "label": "legit",
+  "type": "genuine_otp",
+  "lang": "hinglish",
+  "split": "test"
+ },
+ {
+  "id": "genuine_otp|hinglish|1",
+  "label": "legit",
+  "type": "genuine_otp",
+  "lang": "hinglish",
+  "split": "train"
+ },
+ {
+  "id": "genuine_otp|hindi|0",
+  "label": "legit",
+  "type": "genuine_otp",
+  "lang": "hindi",
+  "split": "train"
+ },
+ {
+  "id": "genuine_otp|hindi|1",
+  "label": "legit",
+  "type": "genuine_otp",
+  "lang": "hindi",
+  "split": "test"
+ },
+ {
+  "id": "genuine_otp|telugu_roman|0",
+  "label": "legit",
+  "type": "genuine_otp",
+  "lang": "telugu_roman",
+  "split": "train"
+ },
+ {
+  "id": "genuine_otp|telugu_roman|1",
+  "label": "legit",
+  "type": "genuine_otp",
+  "lang": "telugu_roman",
+  "split": "train"
+ },
+ {
+  "id": "genuine_otp|telugu_script|0",
+  "label": "legit",
+  "type": "genuine_otp",
+  "lang": "telugu_script",
+  "split": "test"
+ },
+ {
+  "id": "delivery_update|en|0",
+  "label": "legit",
+  "type": "delivery_update",
+  "lang": "en",
+  "split": "test"
+ },
+ {
+  "id": "delivery_update|en|1",
+  "label": "legit",
+  "type": "delivery_update",
+  "lang": "en",
+  "split": "train"
+ },
+ {
+  "id": "delivery_update|hinglish|0",
+  "label": "legit",
+  "type": "delivery_update",
+  "lang": "hinglish",
+  "split": "train"
+ },
+ {
+  "id": "delivery_update|hinglish|1",
+  "label": "legit",
+  "type": "delivery_update",
+  "lang": "hinglish",
+  "split": "train"
+ },
+ {
+  "id": "delivery_update|hindi|0",
+  "label": "legit",
+  "type": "delivery_update",
+  "lang": "hindi",
+  "split": "test"
+ },
+ {
+  "id": "delivery_update|hindi|1",
+  "label": "legit",
+  "type": "delivery_update",
+  "lang": "hindi",
+  "split": "train"
+ },
+ {
+  "id": "delivery_update|telugu_roman|0",
+  "label": "legit",
+  "type": "delivery_update",
+  "lang": "telugu_roman",
+  "split": "test"
+ },
+ {
+  "id": "delivery_update|telugu_roman|1",
+  "label": "legit",
+  "type": "delivery_update",
+  "lang": "telugu_roman",
+  "split": "train"
+ },
+ {
+  "id": "delivery_update|telugu_script|0",
+  "label": "legit",
+  "type": "delivery_update",
+  "lang": "telugu_script",
+  "split": "train"
+ },
+ {
+  "id": "bill_reminder|en|0",
+  "label": "legit",
+  "type": "bill_reminder",
+  "lang": "en",
+  "split": "test"
+ },
+ {
+  "id": "bill_reminder|en|1",
+  "label": "legit",
+  "type": "bill_reminder",
+  "lang": "en",
+  "split": "train"
+ },
+ {
+  "id": "bill_reminder|hinglish|0",
+  "label": "legit",
+  "type": "bill_reminder",
+  "lang": "hinglish",
+  "split": "train"
+ },
+ {
+  "id": "bill_reminder|hinglish|1",
+  "label": "legit",
+  "type": "bill_reminder",
+  "lang": "hinglish",
+  "split": "train"
+ },
+ {
+  "id": "bill_reminder|hindi|0",
+  "label": "legit",
+  "type": "bill_reminder",
+  "lang": "hindi",
+  "split": "test"
+ },
+ {
+  "id": "bill_reminder|hindi|1",
+  "label": "legit",
+  "type": "bill_reminder",
+  "lang": "hindi",
+  "split": "train"
+ },
+ {
+  "id": "bill_reminder|telugu_roman|0",
+  "label": "legit",
+  "type": "bill_reminder",
+  "lang": "telugu_roman",
+  "split": "test"
+ },
+ {
+  "id": "bill_reminder|telugu_roman|1",
+  "label": "legit",
+  "type": "bill_reminder",
+  "lang": "telugu_roman",
+  "split": "train"
+ },
+ {
+  "id": "bill_reminder|telugu_script|0",
+  "label": "legit",
+  "type": "bill_reminder",
+  "lang": "telugu_script",
+  "split": "train"
+ },
+ {
+  "id": "personal_chat|en|0",
+  "label": "legit",
+  "type": "personal_chat",
+  "lang": "en",
+  "split": "train"
+ },
+ {
+  "id": "personal_chat|en|1",
+  "label": "legit",
+  "type": "personal_chat",
+  "lang": "en",
+  "split": "test"
+ },
+ {
+  "id": "personal_chat|hinglish|0",
+  "label": "legit",
+  "type": "personal_chat",
+  "lang": "hinglish",
+  "split": "train"
+ },
+ {
+  "id": "personal_chat|hinglish|1",
+  "label": "legit",
+  "type": "personal_chat",
+  "lang": "hinglish",
+  "split": "train"
+ },
+ {
+  "id": "personal_chat|hindi|0",
+  "label": "legit",
+  "type": "personal_chat",
+  "lang": "hindi",
+  "split": "train"
+ },
+ {
+  "id": "personal_chat|hindi|1",
+  "label": "legit",
+  "type": "personal_chat",
+  "lang": "hindi",
+  "split": "train"
+ },
+ {
+  "id": "personal_chat|telugu_roman|0",
+  "label": "legit",
+  "type": "personal_chat",
+  "lang": "telugu_roman",
+  "split": "test"
+ },
+ {
+  "id": "personal_chat|telugu_roman|1",
+  "label": "legit",
+  "type": "personal_chat",
+  "lang": "telugu_roman",
+  "split": "train"
+ },
+ {
+  "id": "personal_chat|telugu_script|0",
+  "label": "legit",
+  "type": "personal_chat",
+  "lang": "telugu_script",
+  "split": "train"
+ },
+ {
+  "id": "appointment|en|0",
+  "label": "legit",
+  "type": "appointment",
+  "lang": "en",
+  "split": "test"
+ },
+ {
+  "id": "appointment|en|1",
+  "label": "legit",
+  "type": "appointment",
+  "lang": "en",
+  "split": "train"
+ },
+ {
+  "id": "appointment|hinglish|0",
+  "label": "legit",
+  "type": "appointment",
+  "lang": "hinglish",
+  "split": "train"
+ },
+ {
+  "id": "appointment|hinglish|1",
+  "label": "legit",
+  "type": "appointment",
+  "lang": "hinglish",
+  "split": "test"
+ },
+ {
+  "id": "appointment|hindi|0",
+  "label": "legit",
+  "type": "appointment",
+  "lang": "hindi",
+  "split": "train"
+ },
+ {
+  "id": "appointment|hindi|1",
+  "label": "legit",
+  "type": "appointment",
+  "lang": "hindi",
+  "split": "test"
+ },
+ {
+  "id": "appointment|telugu_roman|0",
+  "label": "legit",
+  "type": "appointment",
+  "lang": "telugu_roman",
+  "split": "train"
+ },
+ {
+  "id": "appointment|telugu_roman|1",
+  "label": "legit",
+  "type": "appointment",
+  "lang": "telugu_roman",
+  "split": "train"
+ },
+ {
+  "id": "appointment|telugu_script|0",
+  "label": "legit",
+  "type": "appointment",
+  "lang": "telugu_script",
+  "split": "train"
+ },
+ {
+  "id": "receipt_thanks|en|0",
+  "label": "legit",
+  "type": "receipt_thanks",
+  "lang": "en",
+  "split": "train"
+ },
+ {
+  "id": "receipt_thanks|en|1",
+  "label": "legit",
+  "type": "receipt_thanks",
+  "lang": "en",
+  "split": "test"
+ },
+ {
+  "id": "receipt_thanks|hinglish|0",
+  "label": "legit",
+  "type": "receipt_thanks",
+  "lang": "hinglish",
+  "split": "train"
+ },
+ {
+  "id": "receipt_thanks|hinglish|1",
+  "label": "legit",
+  "type": "receipt_thanks",
+  "lang": "hinglish",
+  "split": "train"
+ },
+ {
+  "id": "receipt_thanks|hindi|0",
+  "label": "legit",
+  "type": "receipt_thanks",
+  "lang": "hindi",
+  "split": "train"
+ },
+ {
+  "id": "receipt_thanks|hindi|1",
+  "label": "legit",
+  "type": "receipt_thanks",
+  "lang": "hindi",
+  "split": "test"
+ },
+ {
+  "id": "receipt_thanks|telugu_roman|0",
+  "label": "legit",
+  "type": "receipt_thanks",
+  "lang": "telugu_roman",
+  "split": "test"
+ },
+ {
+  "id": "receipt_thanks|telugu_roman|1",
+  "label": "legit",
+  "type": "receipt_thanks",
+  "lang": "telugu_roman",
+  "split": "train"
+ },
+ {
+  "id": "work_hr|en|0",
+  "label": "legit",
+  "type": "work_hr",
+  "lang": "en",
+  "split": "train"
+ },
+ {
+  "id": "work_hr|en|1",
+  "label": "legit",
+  "type": "work_hr",
+  "lang": "en",
+  "split": "train"
+ },
+ {
+  "id": "work_hr|hinglish|0",
+  "label": "legit",
+  "type": "work_hr",
+  "lang": "hinglish",
+  "split": "train"
+ },
+ {
+  "id": "work_hr|hinglish|1",
+  "label": "legit",
+  "type": "work_hr",
+  "lang": "hinglish",
+  "split": "test"
+ },
+ {
+  "id": "work_hr|hindi|0",
+  "label": "legit",
+  "type": "work_hr",
+  "lang": "hindi",
+  "split": "test"
+ },
+ {
+  "id": "work_hr|hindi|1",
+  "label": "legit",
+  "type": "work_hr",
+  "lang": "hindi",
+  "split": "train"
+ },
+ {
+  "id": "work_hr|telugu_roman|0",
+  "label": "legit",
+  "type": "work_hr",
+  "lang": "telugu_roman",
+  "split": "train"
+ },
+ {
+  "id": "work_hr|telugu_roman|1",
+  "label": "legit",
+  "type": "work_hr",
+  "lang": "telugu_roman",
+  "split": "train"
+ },
+ {
+  "id": "service_info|en|0",
+  "label": "legit",
+  "type": "service_info",
+  "lang": "en",
+  "split": "train"
+ },
+ {
+  "id": "service_info|en|1",
+  "label": "legit",
+  "type": "service_info",
+  "lang": "en",
+  "split": "train"
+ },
+ {
+  "id": "service_info|hinglish|0",
+  "label": "legit",
+  "type": "service_info",
+  "lang": "hinglish",
+  "split": "test"
+ },
+ {
+  "id": "service_info|hinglish|1",
+  "label": "legit",
+  "type": "service_info",
+  "lang": "hinglish",
+  "split": "train"
+ },
+ {
+  "id": "service_info|hindi|0",
+  "label": "legit",
+  "type": "service_info",
+  "lang": "hindi",
+  "split": "train"
+ },
+ {
+  "id": "service_info|hindi|1",
+  "label": "legit",
+  "type": "service_info",
+  "lang": "hindi",
+  "split": "train"
+ },
+ {
+  "id": "service_info|telugu_roman|0",
+  "label": "legit",
+  "type": "service_info",
+  "lang": "telugu_roman",
+  "split": "train"
+ },
+ {
+  "id": "service_info|telugu_roman|1",
+  "label": "legit",
+  "type": "service_info",
+  "lang": "telugu_roman",
+  "split": "train"
+ },
+ {
+  "id": "statement_info|en|0",
+  "label": "legit",
+  "type": "statement_info",
+  "lang": "en",
+  "split": "train"
+ },
+ {
+  "id": "statement_info|en|1",
+  "label": "legit",
+  "type": "statement_info",
+  "lang": "en",
+  "split": "train"
+ },
+ {
+  "id": "statement_info|hinglish|0",
+  "label": "legit",
+  "type": "statement_info",
+  "lang": "hinglish",
+  "split": "train"
+ },
+ {
+  "id": "statement_info|hinglish|1",
+  "label": "legit",
+  "type": "statement_info",
+  "lang": "hinglish",
+  "split": "train"
+ },
+ {
+  "id": "statement_info|hindi|0",
+  "label": "legit",
+  "type": "statement_info",
+  "lang": "hindi",
+  "split": "train"
+ },
+ {
+  "id": "statement_info|hindi|1",
+  "label": "legit",
+  "type": "statement_info",
+  "lang": "hindi",
+  "split": "train"
+ },
+ {
+  "id": "statement_info|telugu_roman|0",
+  "label": "legit",
+  "type": "statement_info",
+  "lang": "telugu_roman",
+  "split": "train"
+ },
+ {
+  "id": "statement_info|telugu_roman|1",
+  "label": "legit",
+  "type": "statement_info",
+  "lang": "telugu_roman",
+  "split": "train"
+ },
+ {
+  "id": "govt_info|en|0",
+  "label": "legit",
+  "type": "govt_info",
+  "lang": "en",
+  "split": "test"
+ },
+ {
+  "id": "govt_info|en|1",
+  "label": "legit",
+  "type": "govt_info",
+  "lang": "en",
+  "split": "train"
+ },
+ {
+  "id": "govt_info|hinglish|0",
+  "label": "legit",
+  "type": "govt_info",
+  "lang": "hinglish",
+  "split": "train"
+ },
+ {
+  "id": "govt_info|hinglish|1",
+  "label": "legit",
+  "type": "govt_info",
+  "lang": "hinglish",
+  "split": "train"
+ },
+ {
+  "id": "govt_info|hindi|0",
+  "label": "legit",
+  "type": "govt_info",
+  "lang": "hindi",
+  "split": "train"
+ },
+ {
+  "id": "govt_info|hindi|1",
+  "label": "legit",
+  "type": "govt_info",
+  "lang": "hindi",
+  "split": "test"
+ },
+ {
+  "id": "govt_info|telugu_roman|0",
+  "label": "legit",
+  "type": "govt_info",
+  "lang": "telugu_roman",
+  "split": "train"
+ },
+ {
+  "id": "govt_info|telugu_roman|1",
+  "label": "legit",
+  "type": "govt_info",
+  "lang": "telugu_roman",
+  "split": "train"
+ }
+]

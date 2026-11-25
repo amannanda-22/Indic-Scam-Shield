@@ -1,0 +1,50 @@
+{
+  "name": "indic-scam-shield",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Agentic scam detection for Hinglish, Hindi and Telugu messages: ML classifier + rules + RAG over safety advisories + URL forensics + MCP tools.",
+  "scripts": {
+    "dev": "next dev",
+    "dev:all": "node scripts/dev-all.mjs",
+    "build": "next build",
+    "start": "next start",
+    "lint": "tsc --noEmit",
+    "ml:data": "node scripts/py.mjs ml/build_corpus.py",
+    "ml:train": "node scripts/py.mjs ml/train.py",
+    "ml:all": "npm run ml:data && npm run ml:train",
+    "bench:llm": "tsx scripts/bench-llm.ts",
+    "mcp": "tsx mcp/server.ts",
+    "test": "tsx scripts/selftest.ts",
+    "test:mcp": "tsx scripts/mcp-test.ts",
+    "test:blind": "tsx scripts/blind.ts",
+    "test:http": "tsx scripts/http-test.ts",
+    "test:all": "npm run lint && npm run test && npm run test:blind && npm run test:mcp",
+    "serve:ml": "node scripts/py.mjs -m uvicorn app:app --app-dir ml/serve --port 8000",
+    "setup": "node scripts/setup.mjs",
+    "doctor": "node scripts/doctor.mjs"
+  },
+  "dependencies": {
+    "@fontsource-variable/jetbrains-mono": "^5.1.0",
+    "@fontsource-variable/space-grotesk": "^5.1.0",
+    "@modelcontextprotocol/sdk": "^1.0.4",
+    "framer-motion": "^11.11.17",
+    "lucide-react": "^0.462.0",
+    "next": "16.4.6",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "zod": "4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^22.9.0",
+    "@types/react": "^19.3.1",
+    "@types/react-dom": "^19.3.0",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.15",
+    "tsx": "^4.19.2",
+    "typescript": "^5.6.3"
+  },
+  "engines": {
+    "node": ">=20.9"
+  }
+}

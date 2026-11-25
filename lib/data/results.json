@@ -1,0 +1,587 @@
+{
+ "protocol": {
+  "A_random_split_char_lr": {
+   "n": 580,
+   "accuracy": 0.9966,
+   "precision": 0.9943,
+   "recall": 1.0,
+   "f1": 0.9971,
+   "ece": 0.0238,
+   "confusion": {
+    "tn": 232,
+    "fp": 2,
+    "fn": 0,
+    "tp": 346
+   },
+   "auc": 1.0
+  }
+ },
+ "models": {
+  "rules_keywords": {
+   "template_test": {
+    "n": 604,
+    "accuracy": 0.7517,
+    "precision": 1.0,
+    "recall": 0.5161,
+    "f1": 0.6809,
+    "ece": 0.2587,
+    "confusion": {
+     "tn": 294,
+     "fp": 0,
+     "fn": 150,
+     "tp": 160
+    },
+    "auc": 0.8674
+   },
+   "handwritten": {
+    "n": 64,
+    "accuracy": 0.6562,
+    "precision": 0.9167,
+    "recall": 0.3438,
+    "f1": 0.5,
+    "ece": 0.3203,
+    "confusion": {
+     "tn": 31,
+     "fp": 1,
+     "fn": 21,
+     "tp": 11
+    },
+    "auc": 0.793
+   },
+   "template_test_by_lang": {
+    "en": {
+     "n": 128,
+     "accuracy": 0.8906,
+     "f1": 0.8
+    },
+    "hindi": {
+     "n": 148,
+     "accuracy": 0.7162,
+     "f1": 0.4
+    },
+    "hinglish": {
+     "n": 120,
+     "accuracy": 0.8833,
+     "f1": 0.8889
+    },
+    "telugu_roman": {
+     "n": 166,
+     "accuracy": 0.6024,
+     "f1": 0.5926
+    },
+    "telugu_script": {
+     "n": 42,
+     "accuracy": 0.6667,
+     "f1": 0.6667
+    }
+   },
+   "handwritten_by_lang": {
+    "en": {
+     "n": 29,
+     "accuracy": 0.6897,
+     "f1": 0.5263
+    },
+    "hindi": {
+     "n": 6,
+     "accuracy": 0.5,
+     "f1": 0.0
+    },
+    "hinglish": {
+     "n": 20,
+     "accuracy": 0.65,
+     "f1": 0.5333
+    },
+    "telugu_roman": {
+     "n": 7,
+     "accuracy": 0.7143,
+     "f1": 0.6667
+    },
+    "telugu_script": {
+     "n": 2,
+     "accuracy": 0.5,
+     "f1": 0.0
+    }
+   }
+  },
+  "word_tfidf_lr": {
+   "template_test": {
+    "n": 604,
+    "accuracy": 0.9354,
+    "precision": 0.8883,
+    "recall": 1.0,
+    "f1": 0.9408,
+    "ece": 0.1042,
+    "confusion": {
+     "tn": 255,
+     "fp": 39,
+     "fn": 0,
+     "tp": 310
+    },
+    "auc": 0.9896
+   },
+   "handwritten": {
+    "n": 64,
+    "accuracy": 0.8281,
+    "precision": 0.8621,
+    "recall": 0.7812,
+    "f1": 0.8197,
+    "ece": 0.1171,
+    "confusion": {
+     "tn": 28,
+     "fp": 4,
+     "fn": 7,
+     "tp": 25
+    },
+    "auc": 0.9375
+   },
+   "template_test_by_lang": {
+    "en": {
+     "n": 128,
+     "accuracy": 1.0,
+     "f1": 1.0
+    },
+    "hindi": {
+     "n": 148,
+     "accuracy": 0.7365,
+     "f1": 0.7417
+    },
+    "hinglish": {
+     "n": 120,
+     "accuracy": 1.0,
+     "f1": 1.0
+    },
+    "telugu_roman": {
+     "n": 166,
+     "accuracy": 1.0,
+     "f1": 1.0
+    },
+    "telugu_script": {
+     "n": 42,
+     "accuracy": 1.0,
+     "f1": 1.0
+    }
+   },
+   "handwritten_by_lang": {
+    "en": {
+     "n": 29,
+     "accuracy": 0.8966,
+     "f1": 0.88
+    },
+    "hindi": {
+     "n": 6,
+     "accuracy": 0.6667,
+     "f1": 0.6667
+    },
+    "hinglish": {
+     "n": 20,
+     "accuracy": 0.85,
+     "f1": 0.8571
+    },
+    "telugu_roman": {
+     "n": 7,
+     "accuracy": 0.8571,
+     "f1": 0.8571
+    },
+    "telugu_script": {
+     "n": 2,
+     "accuracy": 0.0,
+     "f1": 0.0
+    }
+   }
+  },
+  "char_tfidf_lr": {
+   "template_test": {
+    "n": 604,
+    "accuracy": 0.9719,
+    "precision": 0.9564,
+    "recall": 0.9903,
+    "f1": 0.9731,
+    "ece": 0.0976,
+    "confusion": {
+     "tn": 280,
+     "fp": 14,
+     "fn": 3,
+     "tp": 307
+    },
+    "auc": 0.9957
+   },
+   "handwritten": {
+    "n": 64,
+    "accuracy": 0.8594,
+    "precision": 0.8966,
+    "recall": 0.8125,
+    "f1": 0.8525,
+    "ece": 0.1186,
+    "confusion": {
+     "tn": 29,
+     "fp": 3,
+     "fn": 6,
+     "tp": 26
+    },
+    "auc": 0.9355
+   },
+   "template_test_by_lang": {
+    "en": {
+     "n": 128,
+     "accuracy": 1.0,
+     "f1": 1.0
+    },
+    "hindi": {
+     "n": 148,
+     "accuracy": 0.8851,
+     "f1": 0.8618
+    },
+    "hinglish": {
+     "n": 120,
+     "accuracy": 1.0,
+     "f1": 1.0
+    },
+    "telugu_roman": {
+     "n": 166,
+     "accuracy": 1.0,
+     "f1": 1.0
+    },
+    "telugu_script": {
+     "n": 42,
+     "accuracy": 1.0,
+     "f1": 1.0
+    }
+   },
+   "handwritten_by_lang": {
+    "en": {
+     "n": 29,
+     "accuracy": 0.8621,
+     "f1": 0.8571
+    },
+    "hindi": {
+     "n": 6,
+     "accuracy": 0.8333,
+     "f1": 0.8
+    },
+    "hinglish": {
+     "n": 20,
+     "accuracy": 0.9,
+     "f1": 0.9
+    },
+    "telugu_roman": {
+     "n": 7,
+     "accuracy": 0.8571,
+     "f1": 0.8571
+    },
+    "telugu_script": {
+     "n": 2,
+     "accuracy": 0.5,
+     "f1": 0.0
+    }
+   },
+   "handwritten_errors": [
+    {
+     "text": "Main SBI se bol raha hu, aapka card block hone wala hai. Card ke peeche ka CVV aur abhi aaya OTP bata do.",
+     "truth": "scam",
+     "p_scam": 0.231,
+     "lang": "hinglish",
+     "type": "kyc_block"
+    },
+    {
+     "text": "మీ బ్యాంక్ ఖాతా బ్లాక్ అయ్యింది. వెంటనే ఈ లింక్‌లో మీ కార్డ్ వివరాలు మరియు OTP నమోదు చేయండి.",
+     "truth": "scam",
+     "p_scam": 0.188,
+     "lang": "telugu_script",
+     "type": "kyc_block"
+    },
+    {
+     "text": "Aapka loan app ka payment 2 din late hai. Aaj nahi diya to aapke contacts ko aapki photo ke saath message bhejenge.",
+     "truth": "scam",
+     "p_scam": 0.228,
+     "lang": "hinglish",
+     "type": "loan_app"
+    },
+    {
+     "text": "Hi, we found your resume. Amazon work from home, pay Rs 3 lakh/month. Pay refundable registration Rs 2,000.",
+     "truth": "scam",
+     "p_scam": 0.438,
+     "lang": "en",
+     "type": "job_task"
+    },
+    {
+     "text": "आपका गैस सिलेंडर सब्सिडी रुक गई है। अपडेट करने के लिए इस नंबर पर अपना बैंक OTP बताएं।",
+     "truth": "scam",
+     "p_scam": 0.407,
+     "lang": "hindi",
+     "type": "other"
+    },
+    {
+     "text": "Mee Amazon order cancel chesaru, refund kosam mee debit card number, expiry, CVV ee link lo pampandi.",
+     "truth": "scam",
+     "p_scam": 0.197,
+     "lang": "telugu_roman",
+     "type": "upi_refund"
+    },
+    {
+     "text": "Dear customer, your debit card ending 7788 was used for Rs 899 at Amazon. If this was you, no action needed.",
+     "truth": "legit",
+     "p_scam": 0.666,
+     "lang": "en",
+     "type": "bank_txn_alert"
+    },
+    {
+     "text": "Your Aadhaar download request has been processed. Download from the official myaadhaar.uidai.gov.in portal.",
+     "truth": "legit",
+     "p_scam": 0.627,
+     "lang": "en",
+     "type": "appointment"
+    },
+    {
+     "text": "Your exam hall ticket for the SSC CGL is now available on ssc.gov.in. Download and carry a printout.",
+     "truth": "legit",
+     "p_scam": 0.588,
+     "lang": "en",
+     "type": "appointment"
+    }
+   ]
+  },
+  "shipped_char_lr_all_data": {
+   "handwritten": {
+    "n": 64,
+    "accuracy": 0.8125,
+    "precision": 0.8571,
+    "recall": 0.75,
+    "f1": 0.8,
+    "ece": 0.1328,
+    "confusion": {
+     "tn": 28,
+     "fp": 4,
+     "fn": 8,
+     "tp": 24
+    },
+    "auc": 0.9453
+   },
+   "handwritten_by_lang": {
+    "en": {
+     "n": 29,
+     "accuracy": 0.8276,
+     "f1": 0.8
+    },
+    "hindi": {
+     "n": 6,
+     "accuracy": 0.8333,
+     "f1": 0.8
+    },
+    "hinglish": {
+     "n": 20,
+     "accuracy": 0.85,
+     "f1": 0.8571
+    },
+    "telugu_roman": {
+     "n": 7,
+     "accuracy": 0.8571,
+     "f1": 0.8571
+    },
+    "telugu_script": {
+     "n": 2,
+     "accuracy": 0.0,
+     "f1": 0.0
+    }
+   }
+  }
+ },
+ "dataset": {
+  "rows": 2320,
+  "templates": 198,
+  "by_label": {
+   "scam": 1384,
+   "legit": 936
+  },
+  "by_lang": {
+   "telugu_roman": 534,
+   "hinglish": 534,
+   "en": 534,
+   "telugu_script": 184,
+   "hindi": 534
+  },
+  "by_scam_type": {
+   "lottery_prize": 178,
+   "parcel_customs": 182,
+   "upi_refund": 162,
+   "digital_arrest": 150,
+   "job_task": 182,
+   "utility_disconnect": 182,
+   "kyc_block": 182,
+   "loan_app": 166
+  },
+  "train_rows": 1716,
+  "test_rows": 604,
+  "handwritten_holdout": {
+   "rows": 64,
+   "scam": 32,
+   "legit": 32,
+   "by_lang": {
+    "en": 29,
+    "hinglish": 20,
+    "telugu_roman": 7,
+    "telugu_script": 2,
+    "hindi": 6
+   }
+  },
+  "note": "Template-generated corpus (not scraped real data). Hindi/Telugu text needs native-speaker review."
+ },
+ "top_words_scam": [
+  {
+   "w": "urltok",
+   "c": 5.923
+  },
+  {
+   "w": "phonetok",
+   "c": 3.129
+  },
+  {
+   "w": "pending",
+   "c": 3.065
+  },
+  {
+   "w": "rs 0",
+   "c": 2.906
+  },
+  {
+   "w": "rs",
+   "c": 2.906
+  },
+  {
+   "w": "kyc",
+   "c": 2.605
+  },
+  {
+   "w": "స",
+   "c": 2.352
+  },
+  {
+   "w": "fee",
+   "c": 2.315
+  },
+  {
+   "w": "ज",
+   "c": 2.136
+  },
+  {
+   "w": "loan",
+   "c": 1.947
+  },
+  {
+   "w": "ब",
+   "c": 1.809
+  },
+  {
+   "w": "case",
+   "c": 1.803
+  },
+  {
+   "w": "pay",
+   "c": 1.8
+  },
+  {
+   "w": "lucky",
+   "c": 1.79
+  },
+  {
+   "w": "pin",
+   "c": 1.79
+  },
+  {
+   "w": "upi pin",
+   "c": 1.79
+  },
+  {
+   "w": "connection",
+   "c": 1.777
+  },
+  {
+   "w": "urltok पर",
+   "c": 1.768
+  }
+ ],
+ "top_words_legit": [
+  {
+   "w": "nov",
+   "c": -3.845
+  },
+  {
+   "w": "0 nov",
+   "c": -3.845
+  },
+  {
+   "w": "otp",
+   "c": -2.943
+  },
+  {
+   "w": "official",
+   "c": -2.821
+  },
+  {
+   "w": "dinner",
+   "c": -2.403
+  },
+  {
+   "w": "म",
+   "c": -2.399
+  },
+  {
+   "w": "xx0",
+   "c": -2.387
+  },
+  {
+   "w": "gaya",
+   "c": -2.295
+  },
+  {
+   "w": "na",
+   "c": -2.149
+  },
+  {
+   "w": "email",
+   "c": -2.099
+  },
+  {
+   "w": "mee",
+   "c": -2.058
+  },
+  {
+   "w": "रह",
+   "c": -2.043
+  },
+  {
+   "w": "irctc",
+   "c": -1.944
+  },
+  {
+   "w": "क स",
+   "c": -1.91
+  },
+  {
+   "w": "nav",
+   "c": -1.897
+  },
+  {
+   "w": "sip",
+   "c": -1.897
+  },
+  {
+   "w": "saath",
+   "c": -1.881
+  }
+ ],
+ "scam_type": {
+  "classes": [
+   "digital_arrest",
+   "job_task",
+   "kyc_block",
+   "loan_app",
+   "lottery_prize",
+   "parcel_customs",
+   "upi_refund",
+   "utility_disconnect"
+  ],
+  "macro_f1_template_test": 0.6922,
+  "accuracy_template_test": 0.7742,
+  "n": 310
+ }
+}

@@ -1,0 +1,41 @@
+{
+ "n": 40,
+ "ml_only": {
+  "precision": 1,
+  "recall": 0.85,
+  "f1": 0.919,
+  "accuracy": 0.925,
+  "confusion": {
+   "tp": 17,
+   "fp": 0,
+   "fn": 3,
+   "tn": 20
+  }
+ },
+ "hybrid": {
+  "precision": 1,
+  "recall": 0.9,
+  "f1": 0.947,
+  "accuracy": 0.95,
+  "confusion": {
+   "tp": 18,
+   "fp": 0,
+   "fn": 2,
+   "tn": 20
+  }
+ },
+ "errors": [
+  {
+   "text": "Dear sir, we are from RBI fraud monitoring. Suspicious activity found on your account. Move your savings to the RBI protected account number we share to keep it safe.",
+   "truth": "scam",
+   "verdict": "safe",
+   "risk": 37
+  },
+  {
+   "text": "आपका बैंक खाता अस्थायी रूप से बंद कर दिया गया है। वेरिफिकेशन के लिए अपना ATM पिन और OTP इस नंबर पर भेजें।",
+   "truth": "scam",
+   "verdict": "safe",
+   "risk": 22
+  }
+ ]
+}

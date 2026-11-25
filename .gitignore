@@ -1,0 +1,14 @@
+node_modules
+.next
+.env*.local
+.vercel
+ml/serve/model.joblib
+__pycache__
+*.pyc
+tsconfig.tsbuildinfo
+
+.venv/
+.dev-ports.json
+__pycache__/
+*.pyc
+ml/serve/model.joblib
